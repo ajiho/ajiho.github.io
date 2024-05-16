@@ -1,2 +1,1 @@
-# ajiho.github.io
-My code is your code
+[个人主页](https://ajiho.github.io/)
